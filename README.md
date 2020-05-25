@@ -16,31 +16,31 @@
 ### This data base include each medical equipment in this departments, serial number, model, room number, floor, brand name, model .... etc.
 ### 1. OR Data 
 ###
-![](Results/OR_data.png)
+![](Results/OR_data.PNG)
 ### 2. OUTPAIENT Data 
 ###
-![](Results/Out_Patient_data.png)
+![](Results/Out_Patient_data.PNG)
 ### 3. CCU Data 
 ###
-![](Results/CCU_data.png)
+![](Results/CCU_data.PNG)
 ### 4. PPM Data 
 ###
-![](Results/PPM_data.png)
+![](Results/PPM_data.PNG)
 ### 5. DAILY ISPECTION Data 
 ###
-![](Results/Daily_inspection_data.png)
+![](Results/Daily_inspection_data.PNG)
 ### 6. PRE INSTALLATION Data 
 ###
-![](Results/pre_installtion_data.png)
+![](Results/pre_installtion_data.PNG)
 ### 7. PPM REPORT
 ###
-![](Results/PPM_Report.png)
+![](Results/PPM_Report.PNG)
 ### 8. PRE INSTALLATION PRPORT
 ###
-![](Results/Pre_installation_report.png)
+![](Results/Pre_installation_report.PNG)
 ### 9. DAILY INSPECTION DATA  
 ###
-![](Results/Daily_ispection_report.png)
+![](Results/Daily_ispection_report.PNG)
 
 
 
